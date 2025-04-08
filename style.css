@@ -23,6 +23,7 @@ main {
 
 .section-1-h6 {
   margin-bottom: 15px;
+  color: #666;
 }
 
 .btn1 {
@@ -67,4 +68,9 @@ main {
   font-size: 14px;
   color: #666;
   margin-top: 10px;
+}
+.section-4{
+  background-color: #f5f7fa;
+  padding: 16px;
+  margin-top: 48px;
 }
